@@ -49,8 +49,11 @@ if __name__ == "__main__":
 
 
 
-
+//ideas
 //we need to implement timeout code (turn on at 9 am turn off at 5 pm)
-// maybe turn on at random times at the witching hour to freak anyone out here whos working late)
+//maybe turn on at random times at the witching hour to freak anyone out here whos working late
+//need to ensure pi is ldap entried
+//need to ensure time is the same
+//need to do enroll.wifi
 
 
